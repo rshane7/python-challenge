@@ -1,5 +1,6 @@
 # python-challenge
 python-challenge  - Homework - PyBank and PyPoll
+
 PyBank - Completed
 
 Background
@@ -37,7 +38,7 @@ Greatest Increase in Budget: Jan-2012 ($ 1926159 )
 Greatest Decrease in Budget: Aug-2013 ($ -2196167 )
 
 PyPoll - Did not complete
-PyPoll
+
 •  In this challenge, you are tasked with helping a small, rural town modernize its vote-counting process. (Up until now, Uncle Cleetus had been trustfully tallying them one-by-one, but unfortunately, his concentration isn't what it used to be.)
 •  You will be given a set of poll data called election_data.csv. The dataset is composed of three columns: Voter ID, County, and Candidate. Your task is to create a Python script that analyzes the votes and calculates each of the following:
 •	The total number of votes cast
@@ -46,6 +47,7 @@ PyPoll
 •	The total number of votes each candidate won
 •	The winner of the election based on popular vote.
 As an example, your analysis should look similar to the one below:
+
 Election Results
 -------------------------
 Total Votes: 3521001
@@ -56,6 +58,7 @@ Li: 14.000% (492940)
 O'Tooley: 3.000% (105630)		
 -------------------------
 Winner: Khan
+
 In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 Hints and Considerations
 •	Consider what we've learned so far. To date, we've learned how to import modules like csv; to read and write files in various formats; to store contents in variables, lists, and dictionaries; to iterate through basic data structures; and to debug along the way. Using what we've learned, try to break down you tasks into discrete mini-objectives. This will be a much better course of action than attempting to Google Search for a miracle.
